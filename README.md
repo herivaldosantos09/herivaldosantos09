@@ -4,4 +4,5 @@
 - <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" >
 
 [![Erivaldo Status](https://github-stats-extended.vercel.app/api?username=herivaldosantos09)](https://github.com/stats-organization/github-stats-extended)
-[![Erivaldo Status](https://github-stats-extended.vercel.app/api?top-langs/?username=herivaldosantos09)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herivaldosantos)](https://github.com/anuraghazra/github-readme-stats)
