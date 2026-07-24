@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+Eu sou Erivaldo Santos, sou um Programador|Desenvolvedor Front End, atualmente estou aprendendo e criando projetos com:
+
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" >
-- <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" >
+- <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" >
 
 [![Erivaldo Status](https://github-stats-extended.vercel.app/api?username=herivaldosantos09)](https://github.com/stats-organization/github-stats-extended)
-
